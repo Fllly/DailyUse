@@ -6,7 +6,7 @@
     {
         Run "C:\Users\Fayez\AppData\Local\Lyricify 4\Lyricify for Spotify.exe" ; 修改为自己的Lycrify for Spotify.exe路径
         WinWait "Lyricify for Spotify"       
-        WinHide 
+        WinClose 
     }
     Sleep 5000 ; 等待5s
     if (ProcessExist("Spotify.exe") && ProcessExist("Lyricify for Spotify.exe")) ; Spotify和Lyricify都启动，退出脚本
