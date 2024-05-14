@@ -8,4 +8,4 @@ Something for my daily use.
 
 ### Build
 
-Download [release of AHK2EXE](https://github.com/AutoHotkey/Ahk2Exe/releases/latest), run *Ahk2Exe.exe* to Build an executable file.
+Download release of [AHK2EXE](https://github.com/AutoHotkey/Ahk2Exe/releases/latest), run *Ahk2Exe.exe* to Build an executable file.
